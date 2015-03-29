@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Hello world!
+date: 2015-03-29 13:50:00
 ---
+
 Welcome! This site is currently hosting
 
 * projects on GitHub;
