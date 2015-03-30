@@ -1,3 +1,3 @@
 # chunweiliu.github.io
 
-My site hosted on GitHub
+The source codes of my site on GitHub
