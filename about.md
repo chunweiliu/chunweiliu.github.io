@@ -14,4 +14,4 @@ The main goal of this site is to practice my organization and expression skills 
 
 ### Bio
 
-I was born in Taiwan. Currently, I live in Chapel Hill at the North Carolina for pursuing my master degree in computer science. Meanwhile, I love to jog down my life using [words](https://chunweiliu.wordpress.com) (Chinese) and [pictures](https://instagram.com/chunweiliu/).
+Born and grew up in Taiwan, where I lived for a quarter of century. I moved to the USA at the state of North Carolina for pursuing my master degree and future career in computer science. I love to jog down my life by [words](https://chunweiliu.wordpress.com) (Chinese) and [photos](https://instagram.com/chunweiliu/).
