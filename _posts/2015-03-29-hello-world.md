@@ -7,7 +7,7 @@ tags:
 - GitHub
 ---
 
-*My first post about how this site was built up.*
+*My first post about how this site was built up*
 
 This site is built by the most popular static site generator: [Jekyll](http://jekyllrb.com/) with the template [Jekyll Now](https://github.com/barryclark/jekyll-now).
 
