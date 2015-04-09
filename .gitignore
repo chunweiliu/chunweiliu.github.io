@@ -1,9 +1,5 @@
-_site
+_drafts/
+_site/
 .DS_Store
-.jekyll
-.bundle
-.sass-cache
-Gemfile
+*.swp
 Gemfile.lock
-node_modules
-package.json

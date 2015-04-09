@@ -2,12 +2,12 @@
 layout: post
 title: Hello world!
 date: 2015-03-29 13:50:00
+category: news
 tags:
 - Jekyll
 - GitHub
+description: My first post about how this site was built up
 ---
-
-*My first post about how this site was built up*
 
 This site is built by the most popular static site generator: [Jekyll](http://jekyllrb.com/) with the template [Jekyll Now](https://github.com/barryclark/jekyll-now).
 
